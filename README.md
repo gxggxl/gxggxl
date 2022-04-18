@@ -26,3 +26,5 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/gxggxl"><img src="https://github-readme-stats.vercel.app/api?username=gxggxl&show_icons=true&count_private=true&title_color=006400&text_color=000080&bg_color=30,00FFFF,40E0D0,00CED1" height="150" /></a>
 <a href="https://github.com/gxggxl"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gxggxl&title_color=006400&text_color=000080&layout=compact&bg_color=30,00FFFF,40E0D0,00CED1" height="150" /></a>
+
+[![github contribution grid snake animation](https://cdn.jsdelivr.net/gh/gxggxl/gxggxl@output/github-contribution-grid-snake.svg)](https://github.com/gxggxl)
